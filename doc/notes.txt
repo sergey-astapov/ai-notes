@@ -1,0 +1,18 @@
+ 1399  brew install anaconda
+ 1400  brew cask install anaconda
+ 1401  jupyter notebook
+ 1402  vi ~/.zshrc
+ 1403  chmod ~/.zshrc
+ 1404  ls -lo ~/.zshrc
+ 1405  chmod 777 ~/.zshrc
+ 1406  ls /usr/local/anaconda3/bin
+ 1407  export PATH="/usr/local/anaconda3/bin:$PATH"
+ 1408  jupyter notebook
+ 1409  pwd
+ 1410  cd ..
+ 1411  ls
+ 1412  cd sergey-astapov/
+ 1413  ls
+ 1414  mkdir jupyter
+ 1415  cd jupyter/
+ 1416  jupyter notebook
